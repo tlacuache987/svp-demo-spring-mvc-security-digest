@@ -41,23 +41,23 @@
 			</exclusions>
 		</dependency>
 
-		<!-- Spring AOP
+		<!-- Spring AOP -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-aop</artifactId>
-		</dependency> -->
+		</dependency> 
 
-		<!-- Spring TX
+		<!-- Spring TX -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-tx</artifactId>
-		</dependency> -->
+		</dependency> 
 
-		<!-- Spring JDBC
+		<!-- Spring JDBC -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-jdbc</artifactId>
-		</dependency> -->
+		</dependency> 
 
 		<!-- Spring ORM
 		<dependency>
@@ -93,7 +93,7 @@
 			<artifactId>spring-security-config</artifactId>
 			<version>${spring-security.version}</version>
 		</dependency>
-		<!-- <dependency>
+		<dependency> 
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>${spring-security.version}</version>
@@ -102,7 +102,7 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-aspects</artifactId>
 			<version>${spring-security.version}</version>
-		</dependency>  -->
+		</dependency>  
 
 		<!-- Servlet -->
 		<dependency>
@@ -159,33 +159,33 @@
 			<version>${javax.inject-version}</version>
 		</dependency>
 
-		<!-- h2
+		<!-- h2 -->
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<version>${com.h2database-version}</version>
-		</dependency> -->
+		</dependency> 
 
-		<!-- commons-dbcp
+		<!-- commons-dbcp -->
 		<dependency>
 			<groupId>commons-dbcp</groupId>
 			<artifactId>commons-dbcp</artifactId>
 			<version>${commons-dbcp.version}</version>
-		</dependency> -->
+		</dependency> 
 
-		<!-- MySQL
+		<!-- MySQL -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql.version}</version>
-		</dependency> -->
+		</dependency> 
 
-		<!-- c3p0
+		<!-- c3p0 -->
 		<dependency>
 			<groupId>c3p0</groupId>
 			<artifactId>c3p0</artifactId>
 			<version>${c3p0.version}</version>
-		</dependency> -->
+		</dependency> 
 
 		<!-- lombok -->
 		<dependency>
@@ -194,26 +194,26 @@
 			<version>${lombok-version}</version>
 		</dependency>
 
-		<!-- JANSI para escribir con color en sysout
+		<!-- JANSI para escribir con color en sysout -->
 		<dependency>
 			<groupId>org.fusesource.jansi</groupId>
 			<artifactId>jansi</artifactId>
 			<version>${jansi-version}</version>
-		</dependency> -->
+		</dependency> 
 
-		<!-- Hibernate
+		<!-- Hibernate -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-entitymanager</artifactId>
 			<version>${hibernate-version}</version>
-		</dependency> -->
+		</dependency> 
 
-		<!-- Hibernate Validator
+		<!-- Hibernate Validator -->
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
 			<version>${hibernate-validator-version}</version>
-		</dependency> -->
+		</dependency> 
 
 		<!-- Expression Language 3.0
 		<dependency>
