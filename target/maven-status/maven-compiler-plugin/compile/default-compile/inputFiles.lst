@@ -1,0 +1,14 @@
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/controller/RootController.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_configuration/CustomAccessDeniedHandler.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_configuration/RootContextConfiguration.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/service/CustomUserDetailsService.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/repository/impl/HardcodedUserDetailsRepository.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/controller/PathController.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_configuration/SecurityContextConfiguration.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/repository/UserDetailsRepository.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_springsecurityfilterchaininitializer/SpringSecurityFilterChainInitializer.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/controller/UserController.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_configuration/ServletContextConfiguration.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/controller/AdminController.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_configuration/CustomDigestAuthenticationEntryPoint.java
+/Users/xvhx/ws-santech-veracode/digest-authentication-service/src/main/java/org/certificatic/spring/mvc/digestsecurity/practica34/_dipatcherservletinitializer/SpringWebMvcDispatcherServletInitializer.java
