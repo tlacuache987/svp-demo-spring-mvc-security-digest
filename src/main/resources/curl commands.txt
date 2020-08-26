@@ -1,8 +1,5 @@
 # Authorized
-curl --digest --user xvanhalenx:123123 http://localhost:8080/6-spring-mvc-security-digest-javaconfig-rest/welcome -v
+curl --digest --user xvanhalenx:123123 http://localhost:8888/svp-demo-spring-mvc-security-digest/welcome -v
 
 # Unauthorized
-curl http://localhost:8080/6-spring-mvc-security-digest-javaconfig-rest/welcome -v
-
-
-
+curl http://localhost:8888/svp-demo-spring-mvc-security-digest/welcome -v
