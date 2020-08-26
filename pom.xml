@@ -315,25 +315,7 @@
 				</configuration>
 			</plugin>
 			
-			<plugin>
-				<groupId>com.example</groupId>
-				<artifactId>santech-maven-plugin</artifactId>
-				<version>0.0.4</version>
-				<configuration>
-					<clientId>${clientId}</clientId>
-					<clientSecret>${clientSecret}</clientSecret>
-					<initiative>CD PyME</initiative>
-					<projectName>CD PyME Web App</projectName>
-				</configuration>
-				<executions>
-					<execution>
-						<phase>test</phase>
-						<goals>
-							<goal>santech</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
+			
 			
 		</plugins>
 	</build>
